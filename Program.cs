@@ -14,7 +14,7 @@ namespace dijkstra_algorithm
     A priority queue allows the insertion of an object with priority.
     Highest priority objects can be drawn in FIFO (first in first out).
     Once objects with highest priority are fetched, objects with second highest priority can be fetched.
-    Most efficient implementation used heaps (completed in log(n) time).
+    Most efficient implementation uses heaps (completed in log(n) time).
     */
     public class PriorityQueue<T>
     {
